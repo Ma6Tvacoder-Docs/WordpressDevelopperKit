@@ -2,18 +2,18 @@
 
 Dans ce répertoire, vous trouverez toutes les ressources necessaires à la création d'un WordPress modifié à vos besoins.
 
-L'architexcture se presente ainsi :
+L'architecture se presente ainsi :
 
 # [Bienvenus](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/)
 ## [A propos](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/A-propos)
-## [<u>I. INSTALLATION](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/Installation)
+## [<u>I. Inqstallation](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/Installation)
 #### [A. Initialiser le repertoir sur le server](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/A.Initialiser-Repertoir)
 #### [B. Initialiser la base de donnée](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/B.Initialiser-Bdd)
 #### [C. Premiere connexion](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/C.Premiere-Connexion)
 #### [C#. Configurer une Connexion à une base de donnée distante](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/C#.Connexion-Distante-Locale) ( Travail en local sur plusieurs postes )
 ---
 
-## [<u>II. WORDPRESS](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/Wordpress)
+## [<u>II. WordPress](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/Wordpress)
 #### [<u>A. Première approche](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/A.Premiere-Approche)
 #### [<u>B. Le choix du thème](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/B.Choix-Theme)
 ###### [1. L'approche client / Utilisateur](/Ma6Tvacoder-Docs/WordpressDevelopperKit/wiki/B.Choix-Theme#)
