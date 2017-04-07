@@ -1,6 +1,6 @@
-# Wordpress Developpeur Kit
+# WordPress Développeur Kit
 
-Dans ce repertoir, vous trouverez toutes les ressources necessaires à la création d'un wordpress custmisé à vos besoins.
+Dans ce répertoire, vous trouverez toutes les ressources necessaires à la création d'un WordPress modifié à vos besoins.
 
 L'architexcture se presente ainsi :
 
